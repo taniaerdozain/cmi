@@ -1,6 +1,6 @@
 # cmi.io
 
-## Proyecto de bellas artes del 2019
+## Proyecto de Tania Erdozain
 
 
 Ejemplo de proyecto exportado en HTML a un repositorio de Github. (se debe llamar XXXX.github.io) donde XXXX es tu nombre en github
